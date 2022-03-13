@@ -5,7 +5,8 @@ let todos = [
     name: "Farhod",
     age: 22,
     job: 'backend',
-    Isworked: "true"
+    Isworked: "true",
+    new : "doc"
 
 },
 {
