@@ -61,7 +61,7 @@ export const update = (req, res) => {
     let newTodo = req.body
     newTodo.id = idx
     todos[idx - 1] = newTodo
-    res.json('okok')
+    res.json('okoko')
 }
 
 
