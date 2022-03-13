@@ -4,7 +4,8 @@ let todos = [
     user_id: 7,
     name: "Farhod",
     age: 22,
-    job: 'backend'
+    job: 'backend',
+    Isworked: "true"
 
 },
 {
